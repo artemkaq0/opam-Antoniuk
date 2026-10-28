@@ -1,0 +1,15 @@
+C:\Users\artem\opam-Antoniuk\Lab07\bin\Debug\net10.0\Lab07.exe
+C:\Users\artem\opam-Antoniuk\Lab07\bin\Debug\net10.0\Lab07.deps.json
+C:\Users\artem\opam-Antoniuk\Lab07\bin\Debug\net10.0\Lab07.runtimeconfig.json
+C:\Users\artem\opam-Antoniuk\Lab07\bin\Debug\net10.0\Lab07.dll
+C:\Users\artem\opam-Antoniuk\Lab07\bin\Debug\net10.0\Lab07.pdb
+C:\Users\artem\opam-Antoniuk\Lab07\obj\Debug\net10.0\Lab07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\opam-Antoniuk\Lab07\obj\Debug\net10.0\Lab07.AssemblyInfoInputs.cache
+C:\Users\artem\opam-Antoniuk\Lab07\obj\Debug\net10.0\Lab07.AssemblyInfo.cs
+C:\Users\artem\opam-Antoniuk\Lab07\obj\Debug\net10.0\Lab07.csproj.CoreCompileInputs.cache
+C:\Users\artem\opam-Antoniuk\Lab07\obj\Debug\net10.0\Lab07.sourcelink.json
+C:\Users\artem\opam-Antoniuk\Lab07\obj\Debug\net10.0\Lab07.dll
+C:\Users\artem\opam-Antoniuk\Lab07\obj\Debug\net10.0\refint\Lab07.dll
+C:\Users\artem\opam-Antoniuk\Lab07\obj\Debug\net10.0\Lab07.pdb
+C:\Users\artem\opam-Antoniuk\Lab07\obj\Debug\net10.0\Lab07.genruntimeconfig.cache
+C:\Users\artem\opam-Antoniuk\Lab07\obj\Debug\net10.0\ref\Lab07.dll
